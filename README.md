@@ -15,8 +15,6 @@
 
 在我们的测试中，尔湾云在电脑客户端和移动APP端（Android和iOS）的使用体验都明显优于其他VPN，综合表现最好。在国内通过电信线路连接服务器只需要5-8秒钟，浏览外国网站和观看YouTube上的4K视频都非常流畅。尔湾云在全球94个国家的160多个地区都有服务器,是使用BGP隧道中转和IPLC专线机场。
 
-最近我们使用MiaoKo在线测速，以下是部分节点测试的结果：
-
 ![](https://www.cnvintage.org/assets/files/2024-12-13/1734066601-657630-image.png)
 
 尔湾云支持的设备客户端非常广泛，包括电脑（Windows/Mac/Linux等）和移动设备（iPhone/Android/iPad/Windows Phone/Blackberry等），还有适用于路由器的APP。他们还提供Chrome/Firefox/Safari浏览器插件，几乎支持所有能上网的设备，非常强大！
